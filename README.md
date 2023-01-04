@@ -8,3 +8,6 @@
 - 📫 How to reach me:aravindraveendran92@gmail.com
 - ⚡ Interests: Stock Market,Swing Trading,Option Seller
 
+
+[![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravindraveendran7&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
